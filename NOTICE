@@ -1,0 +1,23 @@
+GlimBrowser
+Copyright (c) 2026 GlimBrowser Authors
+
+本文件汇总本项目的版权与第三方依赖声明。
+
+1. 本项目代码
+   许可：GlimBrowser Non-Commercial License 1.0（见 LICENSE）
+   允许：个人学习、教学、研究、非营利使用
+   禁止：任何商业使用（销售、付费服务、SaaS、营利实体内部生产使用等）
+   商业授权联系：https://github.com/GlimBrowser（提交 Commercial License 议题）
+
+2. 第三方依赖（均为宽松许可证，随依赖分发时请保留其声明）
+   - Kotlin / kotlinx（coroutines、serialization、datetime）：Apache-2.0
+   - Compose Multiplatform：Apache-2.0
+   - Ktor：Apache-2.0
+   - SQLDelight：Apache-2.0
+   - AndroidX（activity-compose、core-ktx、security-crypto）：Apache-2.0
+   - 应用图标：由项目作者生成，随本项目许可分发
+
+3. 字体
+   界面不使用随包分发的第三方字体；系统衬线字体由各平台提供。
+
+如需商业授权，请先取得书面许可后再使用本项目任何代码、图标或文档。
